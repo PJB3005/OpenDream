@@ -36,6 +36,8 @@
     <File Path="RobustToolbox/MSBuild/Robust.Engine.targets" />
     <File Path="RobustToolbox/MSBuild/Robust.Properties.targets" />
     <File Path="RobustToolbox/MSBuild/XamlIL.targets" />
+    <File Path="RobustToolbox\MSBuild\WebView.targets" />
+    <File Path="RobustToolbox\MSBuild\MacOSAppBundle.targets" />
   </Folder>
   <Folder Name="/RobustToolbox/XamlX/">
     <Project Path="RobustToolbox/XamlX/src/XamlX.IL.Cecil/XamlX.IL.Cecil.csproj" />
